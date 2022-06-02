@@ -1,0 +1,27 @@
+/* style for about sections */
+
+body {
+    background-image: url("../../assets/cover-img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+#about {
+    text-align: center;
+    color:antiquewhite;
+    letter-spacing: 1px;
+}
+
+.avatar{
+height: 400px;
+width: auto;
+margin: 0 auto;
+display: block
+}
+
+.about-text{
+color: whitesmoke;
+text-align: center;
+}
