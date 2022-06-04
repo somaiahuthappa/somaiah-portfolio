@@ -19,7 +19,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +40,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somaiahuthappa/somaiah-portfolio.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Somaiah Uthappa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somaiahuthappa/somaiah-portfolio/issues"
+  },
+  "homepage": "https://somaiahuthappa.github.io/somaiah-portfolio/"
 }
