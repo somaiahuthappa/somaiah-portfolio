@@ -19,7 +19,7 @@ function Projects() {
                     <a href="https://github.com/KennWg/pet-finder" target='_blank'>
 						<svg
 							xmlns='http://www.w3.org/2000/svg'
-							className='github-img'
+							class='github-img'
 							viewBox='0 0 512 512'>
 							<title>
 								Logo Github
@@ -36,7 +36,7 @@ function Projects() {
                     <a href="https://github.com/KennWg/pet-buddies" target='_blank'>
 						<svg
 							xmlns='http://www.w3.org/2000/svg'
-							className='github-img'
+							class='github-img'
 							viewBox='0 0 512 512'>
 							<title>
 								Logo Github
@@ -53,7 +53,7 @@ function Projects() {
                     <a href="https://github.com/KaitlynSkinner/Blue_Leaf_Sports" target='_blank'>
 						<svg
 							xmlns='http://www.w3.org/2000/svg'
-							className='github-img'
+							class='github-img'
 							viewBox='0 0 512 512'>
 							<title>
 								Logo Github
@@ -70,7 +70,7 @@ function Projects() {
                     <a href="https://github.com/somaiahuthappa/note-taker" target='_blank'>
 						<svg
 							xmlns='http://www.w3.org/2000/svg'
-							className='github-img'
+							class='github-img'
 							viewBox='0 0 512 512'>
 							<title>
 								Logo Github
@@ -87,7 +87,7 @@ function Projects() {
                     <a href="https://github.com/somaiahuthappa/Daily-Scheduler" target='_blank'>
 						<svg
 							xmlns='http://www.w3.org/2000/svg'
-							className='github-img'
+							class='github-img'
 							viewBox='0 0 512 512'>
 							<title>
 								Logo Github
@@ -104,7 +104,7 @@ function Projects() {
                     <a href="https://github.com/somaiahuthappa/Code-Quiz" target='_blank'>
 						<svg
 							xmlns='http://www.w3.org/2000/svg'
-							className='github-img'
+							class='github-img'
 							viewBox='0 0 512 512'>
 							<title>
 								Logo Github

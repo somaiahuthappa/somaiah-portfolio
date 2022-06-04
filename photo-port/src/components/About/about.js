@@ -5,10 +5,10 @@ import avatar from "../../assets/avatar.png";
 
 function About () {
     return(
-        <section className="about-section">
+        <section class="about-section">
             <h1 id="about">About</h1>
-            <img src={avatar} className="avatar" alt='avatar'/>
-            <h4 className='about-text'>
+            <img src={avatar} class="avatar" alt='avatar'/>
+            <h4 class='about-text'>
                 Worked as a writer and editor in different fields for the past 11 years, 
                 which has given me a good foundation in a professional environment.
                 <br/>

@@ -1,6 +1,14 @@
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
 ul {
+    bottom: 0;
     list-style-type: none;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-items: flex-end;
 }
