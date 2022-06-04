@@ -2,6 +2,7 @@ import React from 'react';
 import './about.css';
 import avatar from "../../assets/avatar.png";
 
+
 function About () {
     return(
         <section className="about-section">
