@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/somaiah-portfolio/static/css/main.eb725791.css",
+    "main.js": "/somaiah-portfolio/static/js/main.8d664e3f.js",
+    "static/js/787.137aa76a.chunk.js": "/somaiah-portfolio/static/js/787.137aa76a.chunk.js",
+    "static/media/blue-leaf-sports.PNG": "/somaiah-portfolio/static/media/blue-leaf-sports.17e665363b47415dcd1f.PNG",
+    "static/media/pet-finder.PNG": "/somaiah-portfolio/static/media/pet-finder.5658b16d4494aa19e73c.PNG",
+    "static/media/cover-img.jpg": "/somaiah-portfolio/static/media/cover-img.d090fa0d5b5cdeb56431.jpg",
+    "static/media/pet-buddies.PNG": "/somaiah-portfolio/static/media/pet-buddies.a41d1c9b7ad84375867f.PNG",
+    "static/media/daily-scheduler.PNG": "/somaiah-portfolio/static/media/daily-scheduler.f40e5c660ac17a18156a.PNG",
+    "static/media/avatar.png": "/somaiah-portfolio/static/media/avatar.de224c3ba9afa97e3a18.png",
+    "static/media/code-quiz.PNG": "/somaiah-portfolio/static/media/code-quiz.cba6595b6205afdab58f.PNG",
+    "static/media/note-taker.PNG": "/somaiah-portfolio/static/media/note-taker.9db0c4c741d0dfc6f4fc.PNG",
+    "index.html": "/somaiah-portfolio/index.html",
+    "main.eb725791.css.map": "/somaiah-portfolio/static/css/main.eb725791.css.map",
+    "main.8d664e3f.js.map": "/somaiah-portfolio/static/js/main.8d664e3f.js.map",
+    "787.137aa76a.chunk.js.map": "/somaiah-portfolio/static/js/787.137aa76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb725791.css",
+    "static/js/main.8d664e3f.js"
+  ]
+}
