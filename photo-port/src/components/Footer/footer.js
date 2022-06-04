@@ -1,4 +1,5 @@
 import React from 'react';
+import './footer.css';
 
 function Footer() {
 	return (
@@ -6,22 +7,22 @@ function Footer() {
 			<ul>
 				<li className='footer-list'>
 					<a
-						className='footer-link'
+						className='footer-link text-white'
 						href='https://github.com/somaiahuthappa'
 						target='_blank'>
-						Github
+						<h4>Github</h4>
 					</a>
 				</li>
 				<li className='footer-list'>
 					<a
-						className='footer-link'
+						className='footer-link text-white'
 						href='https://www.linkedin.com/in/somaiahuthappa/'
 						target='_blank'>
-						LinkedIn
+						<h4>LinkedIn</h4>
 					</a>
 				</li>
-				<li className='footer-list'>
-					<a className='footer-link'>Twitter</a>
+				<li className='footer-list text-white'>
+					<a className='footer-link'><h4>Twitter</h4></a>
 				</li>
 			</ul>
 		</footer>

@@ -10,23 +10,23 @@ function Nav() {
     return (
       <div>
         <>
-        <ReactBootstrap.Navbar collapseOnSelect expand="lg" fixed="top">
+        <ReactBootstrap.Navbar collapseOnSelect expand="lg" sticky="top">
   <ReactBootstrap.Container>
   <ReactBootstrap.Navbar.Brand href="#home"><h1 class="title">Somaiah's Portfolio</h1></ReactBootstrap.Navbar.Brand>
   <ReactBootstrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <ReactBootstrap.Navbar.Collapse id="responsive-navbar-nav">
     <ReactBootstrap.Nav className="me-auto">
         <Link to="/">
-        <ReactBootstrap.Nav.Link variant="light" href="#about"><button class="btn">About</button></ReactBootstrap.Nav.Link>
+        <ReactBootstrap.Nav.Link variant="light" href="#about"><button class="btn text-white">About</button></ReactBootstrap.Nav.Link>
         </Link>
       <Link to="/Projects">
-      <ReactBootstrap.Nav.Link variant="light" href="#projects"><button class="btn">Projects</button></ReactBootstrap.Nav.Link>
+      <ReactBootstrap.Nav.Link variant="light" href="#projects"><button class="btn text-white">Projects</button></ReactBootstrap.Nav.Link>
       </Link>
       <Link to="/Resume">
-      <ReactBootstrap.Nav.Link variant="light" href="#resume"><button class="btn">Resume</button></ReactBootstrap.Nav.Link>
+      <ReactBootstrap.Nav.Link variant="light" href="#resume"><button class="btn text-white">Resume</button></ReactBootstrap.Nav.Link>
       </Link>
       <Link to="/Contact">
-      <ReactBootstrap.Nav.Link variant="light" href="#contact"><button class="btn">Contact</button></ReactBootstrap.Nav.Link>
+      <ReactBootstrap.Nav.Link variant="light" href="#contact"><button class="btn text-white">Contact</button></ReactBootstrap.Nav.Link>
       </Link>      
     </ReactBootstrap.Nav>
   </ReactBootstrap.Navbar.Collapse>
