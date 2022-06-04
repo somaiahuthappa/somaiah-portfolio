@@ -1,4 +1,4 @@
-  # Somaiah's Portfolio <br/>
+  # Somaiah's Portfolio
 
   -------------------
 
