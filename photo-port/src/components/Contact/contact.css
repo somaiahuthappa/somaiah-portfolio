@@ -1,0 +1,17 @@
+.contact {
+	color: white;
+	height: 90.5vh;
+}
+
+#contact-form {
+	margin: 0px auto;
+	width: 60%;
+}
+
+.contact-form-item {
+	margin-top: 20px !important;
+}
+
+.contact-form-input {
+	width: 30%;
+}

@@ -17,16 +17,16 @@ function Nav() {
   <ReactBootstrap.Navbar.Collapse id="responsive-navbar-nav">
     <ReactBootstrap.Nav className="me-auto">
         <Link to="/">
-        <ReactBootstrap.Nav.Link variant="light" href="#about"><button class="btn text-white">About</button></ReactBootstrap.Nav.Link>
+        <ReactBootstrap.Nav.Link variant="light" href="#about"><button class="btn text-white" active>About</button></ReactBootstrap.Nav.Link>
         </Link>
       <Link to="/Projects">
-      <ReactBootstrap.Nav.Link variant="light" href="#projects"><button class="btn text-white">Projects</button></ReactBootstrap.Nav.Link>
+      <ReactBootstrap.Nav.Link variant="light" href="#projects"><button class="btn text-white" active>Projects</button></ReactBootstrap.Nav.Link>
       </Link>
       <Link to="/Resume">
-      <ReactBootstrap.Nav.Link variant="light" href="#resume"><button class="btn text-white">Resume</button></ReactBootstrap.Nav.Link>
+      <ReactBootstrap.Nav.Link variant="light" href="#resume"><button class="btn text-white" active>Resume</button></ReactBootstrap.Nav.Link>
       </Link>
       <Link to="/Contact">
-      <ReactBootstrap.Nav.Link variant="light" href="#contact"><button class="btn text-white">Contact</button></ReactBootstrap.Nav.Link>
+      <ReactBootstrap.Nav.Link variant="light" href="#contact"><button class="btn text-white" active>Contact</button></ReactBootstrap.Nav.Link>
       </Link>      
     </ReactBootstrap.Nav>
   </ReactBootstrap.Navbar.Collapse>

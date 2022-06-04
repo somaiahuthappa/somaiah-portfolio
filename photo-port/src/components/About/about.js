@@ -1,14 +1,13 @@
-import React from 'react';
-import './about.css';
+import React from "react";
+import "./about.css";
 import avatar from "../../assets/avatar.png";
 
 
 function About () {
     return(
-        <section class="about-section">
-            <h1 id="about">About</h1>
-            <img src={avatar} class="avatar" alt='avatar'/>
-            <h4 class='about-text'>
+        <div class="about-section">
+            <img src={avatar} class="avatar" alt="avatar"/>
+            <h4 class="about-text">
                 Worked as a writer and editor in different fields for the past 11 years, 
                 which has given me a good foundation in a professional environment.
                 <br/>
@@ -17,7 +16,7 @@ function About () {
 
 
             </h4>
-        </section>
+        </div>
 )}
 
 export default About
