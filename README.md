@@ -43,7 +43,7 @@
   -------------------
 
   ## Link
-  No
+  [Link to Portfolio](https://somaiahuthappa.github.io/somaiah-portfolio/)
 
   -------------------
 
